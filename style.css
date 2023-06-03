@@ -1,0 +1,22 @@
+body {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  background-color: beige;
+}
+#post-container {
+  width: 70%;
+  margin: 0 auto;
+}
+#post-container__inner {
+  padding: 10px;
+}
+#post-container__title {
+  padding-bottom: 5px;
+}
+.post-container__style-text {
+  font-weight: 900;
+  color: brown;
+}
+h1 {
+  text-align: center;
+}
